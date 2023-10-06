@@ -1,6 +1,8 @@
 Szia,
 
-Ez a dump SQL a tőled kapott, nem tudom, hogy a duplikáció okozhat-e problémát.
+Ez a dump SQL a tőled kapott - nem tudom, hogy a duplikáció okozhat-e problémát.
+Van benne szerkezeti változás is az eredetihez képest! :)
+
 Amikor másoltam az adatbázist és más néven mentettem el, akkor nem engedte beállítani a másodlagos kulcsokat, így nem kockáztattam vele.
 
 Köszönöm az elmúlt egy évet, egy zseni vagy! :))))
